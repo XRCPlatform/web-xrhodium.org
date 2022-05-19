@@ -1,0 +1,436 @@
+/* ==========================================================================
+   	MEDIA QUERIES.
+   ========================================================================== */
+@media (max-width:1350px) { 
+
+.contact-info{
+    padding: 3.5rem 2rem;
+}
+    
+}
+
+
+
+@media (max-width:1200px) { 
+.container{
+    max-width: 95%;
+} 
+    
+.left-side, .right-side{
+    padding: 3.5rem 0rem;
+}
+    
+.contact-info{
+    padding-left: 1rem;
+}
+    
+.form-box{
+    max-width: 350px;
+}
+    
+.author-avatar{
+    width: 40px;
+    height: 40px;
+}
+    
+.about-author h4{
+    font-size: 16px;
+}
+    
+.button {
+  font-size: 0.90rem;
+}
+    
+.grid-info{
+    padding: 30px 15px;
+    text-align: center;
+}   
+    
+.grid-icon-circle{
+    width: 70px;
+    height: 70px;
+}
+    
+.front-search-container{
+	height: 100%;
+	position: relative;
+    margin-top: 3rem;
+}
+	
+.front-search-container .form-control{
+	width: 100%;
+}
+
+.front-search-container .left-side{
+	float: none;
+	width: 100%;
+	height: 100%;
+	padding: 30px;
+}
+
+.front-search-container .right-side{
+	float: none;
+	width: 100%;
+	height: 100%;
+	padding: 30px;
+}
+   
+}
+
+@media (max-width:1100px) { 
+.form-box{
+    max-width: 550px;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    transform: translate(0%, 0%);
+    margin: -7rem auto 3rem auto;
+} 
+    
+.word{
+    font-size: 2rem;
+    height: 70px;
+}   
+    
+}
+
+@media (max-width:992px) { 
+.nav-lng {
+	position: absolute;
+	top: 0;
+	right: 100px;
+	z-index: 1000;
+}
+.nav-container {
+
+    position: static;
+
+}
+html {
+    font-size: 20px;
+} 
+    
+.breakpoint-view{
+    margin-top: 2rem;
+}
+    
+.top-header{
+    display: none;
+}
+.home-about {
+	margin-bottom: 30px;
+} 
+    
+    
+    
+    
+.home-about h5{
+    font-size: 0.90rem;
+}
+
+.home-icon-box h3{
+    font-size: 1rem;
+}
+
+.front-box h3{
+    font-size: 1rem;
+}
+
+.front-box h5{
+    font-size: 0.95rem;
+}
+
+.thumb-caption h4{
+    font-size: 1rem;
+}
+
+.counter-statistics .counter{
+    font-size: 1.5rem;
+}
+
+.showcase-label h3{
+    font-size: 1rem;
+}
+
+.team-caption h3{
+    font-size: 1rem;
+}
+
+.post-caption h3{
+    font-size: 1rem;
+}
+
+.about-author h4{
+    font-size: 0.90rem;
+}
+        
+header .container{
+    margin: 0rem auto;
+}
+    
+.front-section{
+    height: 100%;
+}
+
+.services-container{
+    margin-top: -260px;
+}
+    
+.section-title{
+    width: 70%;
+    margin-bottom: 1.2rem;
+}
+    
+.center-box{
+    margin: 2.5rem 0rem;
+}
+    
+.left-side, .right-side{
+    padding: 1rem;
+}
+    
+.showcase{
+    margin: 12% 0%;
+    height: auto;
+}
+    
+.showcase-label{
+    text-align: center;
+    float: none;
+    width: 100%;
+}
+    
+.showcase-icon-circle{
+    float: none;
+    margin: auto auto 1rem;
+    width: 60px;
+    height: 60px;
+}
+    
+.right-side .showcase-label{
+    float: none;
+    text-align: center;
+}
+
+.right-side .showcase-icon-circle{
+    float: none;
+} 
+    
+.showcase-label h4{
+    margin-bottom: 5px;
+}
+    
+.showcase-label p{
+    font-size: 13px;
+}
+    
+.showcase-icon{
+    width: 35px;
+    height: 35px;
+}
+ 
+.dm-device{
+    margin: 2rem 0rem;
+}
+    
+.testimonials-box{
+    background: #FFF;
+    margin-top: 0px;
+    z-index: 2;
+    position: relative;
+    padding: 20px 15px 15px;
+} 
+    
+.inner-counter{
+    border: none;
+    margin-bottom: 1.25rem;
+}
+    
+.contact-info{
+    padding: 0.5rem 1rem 2rem;
+}
+    
+.author-avatar{
+    width: 55px;
+    height: 55px;
+}
+    
+.grid-info{
+    padding: 60px 15px;
+    text-align: center;
+}  
+    
+.front-panels{
+    margin-top: 3rem;
+}
+    
+header {
+    height: 60px;		
+}	
+.heroe-bg{
+    height: 768px;
+}
+    
+.word{
+    font-size: 1.5rem;
+    height: 50px;
+}
+    
+.post-list{
+    padding-bottom: 3px;
+}
+    
+}
+
+@media (max-width:768px) { 
+.grid-sizer,
+.grid-item {
+  width: calc(100% / 1);
+}
+    
+.showcase{
+    margin: 2rem 0rem;
+    height: auto;
+}
+    
+.dm-device{
+    margin: 1rem 0rem;
+}
+    
+.first-block{
+    margin-top: 0rem;
+}
+
+.last-block{
+    margin-bottom: 0rem;
+}
+    
+.inner-counter{
+    border: none;
+    margin: 1rem 0rem;
+}
+    
+header {
+    height: 60px;		
+}		
+.heroe-bg{
+    height: 600px;
+}
+  
+}
+
+
+@media (max-width:576px) { 
+    
+.section-title p{
+    font-size: 14px;
+}
+
+h3.autor{
+    text-align: center;
+    line-height: 2;
+    color: #333;
+    margin: 5px 0px;
+}
+
+h6.testimonial-title{
+    text-align: center;
+    color: #333
+}
+    
+p.quote{
+    padding: 0px 15px;
+    font-size: 13px;
+} 
+    
+.address-icon, .phone-icon, .email-icon{
+    width: 25px;
+}
+    
+.form-box{
+    margin: 2.5rem auto 3rem auto;
+} 
+    
+.footer-logo{
+    width: 120px;
+}
+  
+.footer-block p{
+    font-size: 13px;
+}
+    
+.nav-pills a {
+    margin-right: 3px;
+    font-size: 14px;  
+    padding: 8px 10px;
+}
+    
+.social-icons .icon-fa{
+    margin-right: 3px;
+}
+    
+.middle {
+    position: absolute;
+    top: 45%;
+    text-align: center;
+    left: 0%;
+    right: 0%;
+    transform: translate(0%, 0%);
+    padding: 0px 20px 0px 20px;
+}
+    
+.footer-block {
+    position: absolute;
+    top: 5%;
+    text-align: center;
+    left: 0%;
+    right: 0%;
+    transform: translate(0%, 0%);
+    padding: 0px 20px 0px 20px;
+}
+   
+ 
+}
+
+@media (max-width:480px) { 
+html {
+    font-size: 18px;
+}
+    
+p {
+  font-size: 14px;
+}  
+    
+.section-title{
+    width: 90%;
+}
+    
+.section-title p{
+    line-height: 1.6;
+}
+
+.contact-info{
+    padding-right: 0rem;
+    padding-top: 0rem;
+}
+    
+.contact-info p{
+    font-size: 13px;
+    margin-top: -5px;
+}
+    
+.inner-info h5{
+    font-size: 15px;
+}
+    
+.form-box{
+    max-width: 100%;
+} 
+    
+.map-iframe{
+    height: 400px;
+}
+
+    
+}

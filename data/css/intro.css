@@ -1,0 +1,263 @@
+.hero{
+    height: 400px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: #ED213A;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #93291E, #ED213A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  opacity: .6;
+}
+
+
+.intro{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.intro h5{
+    color: #FFF;  
+    font-size: 18px;
+}
+
+.intro h1{
+    color: #FFF; 
+    font-size: 1rem;
+}
+
+.site-logo{
+    width: 180px;
+    margin: auto auto 20px;
+}
+
+.site-logo img{
+    width: 100%;
+}
+
+.btn-custom {
+  color: #FFF;
+  transition: 0.9s;
+  padding: 0.5rem 2rem;
+  font-size: 0.60rem;      
+  background: #E63946;
+  border-radius: 20px;
+}
+
+.btn-custom:hover {
+  color: #FFF;
+  background: #cc1928;
+}
+
+.btn-custom:focus, .btn-custom.focus {
+  box-shadow: none;
+}
+
+.btn-custom.disabled, .btn-custom:disabled {
+  color: #fff;
+  background-color: #e9b416;
+  border-color: #e9b416;
+}
+
+.btn-custom:not(:disabled):not(.disabled):active, .btn-custom:not(:disabled):not(.disabled).active,
+.show > .btn-custom.dropdown-toggle {
+  color: #fff;
+  background-color: none;
+  border-color: none;
+}
+
+.btn-custom:not(:disabled):not(.disabled):active:focus, .btn-custom:not(:disabled):not(.disabled).active:focus,
+.show > .btn-custom.dropdown-toggle:focus {
+  box-shadow: none;
+}
+
+.label{
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+.container-fluid{
+    padding: 0px 3rem;
+}
+
+.theme-img{
+    margin-bottom: 1.5rem;
+}
+
+.theme-img img{
+    width: 100%;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+
+.caption p{
+    margin-top: 1rem;
+}
+
+
+.features{
+    padding: 25px 20px;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+    margin-bottom: 2rem;
+}
+
+figure.feature-icon{
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+
+figure.feature-icon img{
+    width: 100%;
+}
+
+.feature-caption h3{
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.feature-caption p{
+    font-size: 13px;
+    line-height: 1.5;
+    margin-bottom: 0px;
+}
+
+footer{ 
+    height: 400px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+footer:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-image: linear-gradient(to bottom right, #FF404C, #000);
+  opacity: .4;
+}
+
+
+.footer-info{
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.footer-info h5{
+    color: #FFF;
+}
+
+.footer-info h2{
+    color: #FFF;
+}
+
+.footer-info p{
+    color: #FFF;
+}
+
+
+@media (max-width:1200px) { 
+.container-fluid{
+    padding: 0px 2rem;
+}
+    
+}
+
+@media (max-width:992px) { 
+    
+.container-fluid{
+    padding: 0px 1rem;
+}
+    
+.hero{
+    height: 768px; 
+}
+    
+.site-logo{
+    width: 200px;
+}
+    
+}
+
+@media (max-width:768px) { 
+    
+.hero{
+    height: 550px; 
+}
+    
+.site-logo{
+    width: 170px;
+}
+    
+.label{
+    width: 90%;
+}
+    
+.intro {
+    top: 35%;
+    left: 0%;
+    right: 0%;
+    transform: translate(0%, 0%);
+    padding: 0px 20px 0px 20px;
+}
+    
+.footer-info{
+    top: 35%;
+    left: 0%;
+    right: 0%;
+    transform: translate(0%, 0%);
+    padding: 0px 20px 0px 20px;
+}
+    
+}
+
+@media (max-width:576px) { 
+    
+.site-logo{
+    width: 140px;
+}
+    
+.intro h5{
+  color: #FFF; 
+    font-size: 0.80rem;
+}
+
+.intro h1{
+  color: #FFF;
+    font-size: 1.2rem;
+}
+    
+.caption p{
+    margin-top: 1rem;
+}
+    
+.label{
+    width: 100%;
+}
+    
+.label p{
+    line-height: 1.5;   
+}
+    
+}

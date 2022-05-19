@@ -1,0 +1,214 @@
+/*########################################
+  ---------- THEME COLOR SCHEMES----------
+  ########################################*/
+h4, .h4 {
+  font-size: 1.125rem;
+  color: #6a3093;
+}
+
+h5, .h5 {
+  color: #2e3738;
+}
+
+.section-title h2:after {
+	background: #6a3093;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #a044ff, #6a3093);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #a044ff, #6a3093); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	content: '';
+	display: block;
+	height: 3px;
+	margin: 15px auto;
+	width: 80px;
+}
+
+.btn-custom {
+    color: #FFF;   
+    background: #6a3093;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #6a3093, #6a3093);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #a044ff, #6a3093); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+}
+
+.btn-custom:hover {
+    color: #FFF;
+    background: #6a3093;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #6a3093, #6a3093);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #6a3093, #6a3093); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.home-about h5{
+    color: #2e3738;
+}
+
+.home-about h5:after {
+	background: #6a3093;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #a044ff, #6a3093);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #a044ff, #6a3093); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+
+a.btn-hover-corner {
+  display: inline-block;
+  text-decoration: none;
+  color: #F05295;
+  font-weight: bold;
+  font-size: 14px;
+  position: relative;
+  padding: 0.5rem 2.5rem;
+  overflow: hidden;
+  transition: 0.3s ease;
+  margin-bottom: 0px;
+}
+
+a.btn-hover-corner:before {
+  content: '';
+  display: block;
+  height: 1em;
+  width: 1em;
+  border-bottom: 2px solid #F05295;
+  border-left: 2px solid #F05295;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  transition: 0.3s ease;
+}
+
+a.btn-hover-corner:after {
+  content: '';
+  display: block;
+  height: 1em;
+  width: 1em;
+  border-top: 2px solid #F05295;
+  border-right: 2px solid #F05295;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.icon-fa{
+    display:inline-block;
+    font-size: 16px;
+    line-height: 35px;
+    background: #FFF;
+    color: #FFF;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    vertical-align: bottom;
+    border-radius: 50%;
+    background: #6a3093;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #a044ff, #6a3093);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #a044ff, #6a3093); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    transition: 0.3s;
+}
+
+.icon-fa:hover{
+    background: #6a3093;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #6a3093, #6a3093);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #6a3093, #6a3093); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.showcase-icon-circle{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    float: right;
+    position: relative;
+    background: #F05295;
+}
+
+.post-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #F05295;
+}
+
+.post-caption a:hover {
+	color: #F05295;
+    text-decoration: none;
+}
+
+.button {
+  position: relative;
+  -webkit-perspective: 300px;
+          perspective: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  color: #F05295;
+}
+
+.flickity-page-dots .dot.is-selected{
+    filter:alpha(opacity=100);
+    opacity:1;
+    width: 20px;
+    height: 10px;
+    border-radius: 5px;
+    background: #6a3093;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #a044ff, #6a3093);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #a044ff, #6a3093); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.nav >li > a:focus, .nav> li > a:hover {
+    background: transparent;
+    color: #F05295;
+}
+
+.alert-success {
+  color: #FFF;
+  background-color: #F05295;
+  border-color: #F05295;
+}
+
+.networks-list .fab{
+    color: #F05295;
+}
+
+.counter-statistics .counter{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #6a3093;
+    text-align: center;
+}
+
+.navbar-fixed-top.scrolled .nav-menu > li:hover > a{
+    color: #F05295;
+}
+
+.cd-top {
+  background: rgba(240, 82, 149, 1) url(../../img/master/cd-top-arrow.svg) no-repeat center 50%;
+}
+
+.soc-but a:hover {
+	color: #FFF;
+    text-decoration: none;
+}
+
+/*####################################
+  ---------- BEAUTY STYLES ----------
+  ####################################*/
+.rev_slider img{
+    width:100%
+}
+
+.rev_slider::after{ 
+    width: 100%;
+	height:30%;
+	position: absolute;
+	content: "";
+	top: 0px;
+	left: 0px;
+    z-index:100;
+    display:block;
+    transition:all .3s ease;
+    background: -moz-linear-gradient(bottom, rgba(0,0,0,0) 4%, rgba(0,0,0,30) 100%); 
+    background: -webkit-gradient(linear, left bottom, left top, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.6))); 
+}
