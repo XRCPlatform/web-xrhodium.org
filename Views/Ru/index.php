@@ -349,7 +349,7 @@
                             <p>
                                 2,1 миллиона XRC<br>
                                 X11 POW DigiShield<br>
-                                <a onclick="gtag('event', 'click', { event_category: 'link', event_action: 'click', event_label: 'gitlab code source'});" href="https://gitlab.com/xRhodium/BRhodiumNode" target="_blank">Открытый исходный код на C#</a><br>
+                                <a onclick="gtag('event', 'click', { event_category: 'link', event_action: 'click', event_label: 'gitlab code source'});" href="https://github.com/XRCPlatform/xrhodiumnode" target="_blank">Открытый исходный код на C#</a><br>
                                 Расчетное время блока 10 минут<br />
                                 Размер блока 4 МБ<br />
                                 Корректировка сложности каждые 2016 блоков

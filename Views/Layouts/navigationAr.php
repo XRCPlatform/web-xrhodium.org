@@ -32,7 +32,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="https://gitlab.com/bitcoinrh/" target="_blank" data-link="1">
+                    <a href="https://github.com/XRCPlatform/xrhodiumnode" target="_blank" data-link="1">
                         كود المصدر
                     </a>
                 </li>
@@ -67,7 +67,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="https://gitlab.com/bitcoinrh/BRhodiumNode/" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'fullnodewallet'});" target="_blank" data-link="1">
+                    <a href="https://github.com/XRCPlatform/xrhodiumnode" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'fullnodewallet'});" target="_blank" data-link="1">
                         محفظة XRC Node
                     </a>
                 </li>

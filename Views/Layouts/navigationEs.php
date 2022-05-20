@@ -24,7 +24,7 @@
                     <a onclick="gtag('event', 'click', { event_category: 'menu', event_action: 'click', event_label: 'networkinfo'});" href="https://network.xrhodium.org/" target="_blank">Informacion de red</a>
                 </li>
                 <li>
-                    <a href="https://gitlab.com/bitcoinrh/" target="_blank" data-link="1">Source code</a>
+                    <a href="https://github.com/XRCPlatform/xrhodiumnode" target="_blank" data-link="1">Source code</a>
                 </li>
                 <li>
                     <a onclick="gtag('event', 'click', { event_category: 'menu', event_action: 'click', event_label: 'unique solutions for investors'});" href="#use_cases">Usos</a>
@@ -47,7 +47,7 @@
                     <a href="https://www.electrumxrc.org/" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'electrum'});" target="_blank" data-link="1">Electrum Wallet</a>
                 </li>
                 <li>
-                    <a href="https://gitlab.com/bitcoinrh/BRhodiumNode/" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'fullnodewallet'});" target="_blank" data-link="1">Full Node Wallet</a>
+                    <a href="https://github.com/XRCPlatform/xrhodiumnode" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'fullnodewallet'});" target="_blank" data-link="1">Full Node Wallet</a>
                 </li>
                 <li>
                     <a href="https://blockcore.xrhodium.org/" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'blockcorefullnodewallet'});" target="_blank" data-link="1">BlockCore Node Wallet</a>

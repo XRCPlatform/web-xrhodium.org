@@ -24,7 +24,7 @@
                     <a onclick="gtag('event', 'click', { event_category: 'menu', event_action: 'click', event_label: 'networkinfo'});" href="https://network.xrhodium.org/" target="_blank">网络信息</a>
                 </li>
                 <li>
-                    <a href="https://gitlab.com/bitcoinrh/" target="_blank" data-link="1">源代码</a>
+                    <a href="https://github.com/XRCPlatform/xrhodiumnode" target="_blank" data-link="1">源代码</a>
                 </li>
                 <li>
                     <a onclick="gtag('event', 'click', { event_category: 'menu', event_action: 'click', event_label: 'unique solutions for investors'});" href="#use_cases">用例</a>
@@ -49,7 +49,7 @@
                     <a href="https://www.electrumxrc.org/" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'electrum'});" target="_blank" data-link="1">Electrum钱包</a>
                 </li>
                 <li>
-                    <a href="https://gitlab.com/bitcoinrh/BRhodiumNode/" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'fullnodewallet'});" target="_blank" data-link="1">Full Node 钱包</a>
+                    <a href="https://github.com/XRCPlatform/xrhodiumnode" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'fullnodewallet'});" target="_blank" data-link="1">Full Node 钱包</a>
                 </li>
                 <li>
                     <a href="https://blockcore.xrhodium.org/" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'blockcorefullnodewallet'});" target="_blank" data-link="1">BlockCore Node 钱包</a>

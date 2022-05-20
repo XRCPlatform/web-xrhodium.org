@@ -161,7 +161,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="social-about">
-                            <p><a href="https://gitlab.com/xRhodium/" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'gitlab'});"><img src="/data/img/master/gitlab.svg"> Source code on Gitlab</a><br>Main XRC chain code repository. Review the code and start building some nice things on top of the XRC blockchain</p>
+                            <p><a href="https://github.com/XRCPlatform" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'gitlab'});"><img src="/data/img/master/gitlab.svg"> Source code on Gitlab</a><br>Main XRC chain code repository. Review the code and start building some nice things on top of the XRC blockchain</p>
                         </div>
                     </div>
                     <div class="col-lg-6">

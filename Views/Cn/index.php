@@ -344,7 +344,7 @@
                             <p>
                                 2.1 百万 XRC<br />
                                 X11 POW DigiShield<br />
-                                <a onclick="gtag('event', 'click', { event_category: 'link', event_action: 'click', event_label: 'gitlab code source'});" href="https://gitlab.com/xRhodium/BRhodiumNode" target="_blank">C# 开源代码</a><br />
+                                <a onclick="gtag('event', 'click', { event_category: 'link', event_action: 'click', event_label: 'gitlab code source'});" href="https://github.com/XRCPlatform/xrhodiumnode" target="_blank">C# 开源代码</a><br />
                                 区块间隔 target 目标10分钟<br />
                                 数据块大小 4 MB<br />
                                 难度调整 每2016块

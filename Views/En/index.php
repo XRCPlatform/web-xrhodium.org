@@ -349,7 +349,7 @@ echo $content_for_navigation;
                             <p>
                                 2.1 million XRC<br>
                                 X11 POW DigiShield<br>
-                                <a onclick="gtag('event', 'click', { event_category: 'link', event_action: 'click', event_label: 'gitlab code source'});" href="https://gitlab.com/xRhodium/BRhodiumNode" target="_blank">C# open source code</a><br>
+                                <a onclick="gtag('event', 'click', { event_category: 'link', event_action: 'click', event_label: 'gitlab code source'});" href="https://github.com/XRCPlatform/xrhodiumnode" target="_blank">C# open source code</a><br>
                                 Block Interval target 10 Minutes<br>
                                 Block Size 4 MB<br>
                                 Difficulty adjustment every 2016 blocks

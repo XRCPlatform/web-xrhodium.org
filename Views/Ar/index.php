@@ -456,7 +456,7 @@
                                 <br>
                                 X11 POW Digishield<br>
 
-                                <a onclick="gtag('event', 'click', { event_category: 'link', event_action: 'click', event_label: 'gitlab code source'});" href="https://gitlab.com/xRhodium/BRhodiumNode" target="_blank">كود C# مفتوح المصدر </a><br>
+                                <a onclick="gtag('event', 'click', { event_category: 'link', event_action: 'click', event_label: 'gitlab code source'});" href="https://github.com/XRCPlatform/xrhodiumnode" target="_blank">كود C# مفتوح المصدر </a><br>
                                 الفاصل الزمني المستهدف للكتلة 10 دقائق
                                 <br>
                                 حجم الكتلة 4 ميجا بايت
