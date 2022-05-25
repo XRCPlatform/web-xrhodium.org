@@ -148,28 +148,20 @@
                 <div class="row">
                     <div class="col-lg-7">
                         <div class="home-about">
-                            <h5>
-                                حول xRhodium
-                            </h5>
+<h5> حول xRhodium </h5>
                             <p>
-                                عملة <strong>xRhodium</strong> هي سلعة مشفرة وعملة مشفرة جديدة ونادرة ومحدودة لحفظ القيمة للمستقبل. إنها تهدف إلى توفير طريقة
-                                دفع، إلى جانب كونها سلعة قيّمة حقيقية، والتي سوف تصبح عنصرا مزدهراً للاستثمار جنبا إلى جنب مع البيتكوين. تستخدم xRhodium البلوكشين الفريد من نوعه الخاص بها مع إجمالي عدد عملات
-                                2.1 مليون XRC. وهي مبرمجة بلغة c # وبالأخص خوارزمية إثبات العمل "POW" فقط. جميع أصحاب العملات على المدى الطويل يكونون مؤهلين لبرنامج الأيدي
-                                القوية الذي يضمن عائدا كبيرا من الاستثمار كل 3 أشهر. سوق المعادن ل xRhodium المبني على مبدأ الند للند الذي سيربط العالم المشفّر مع عالم
-                                الاستثمار التقليدي يجرى حاليا تطويره لتعزيز حالات استخدام xRhodium. عملة xRhodium سوف تعقد شراكة
-
+                                <strong> xRhodium [XRC] </strong> هي سلعة تشفير جديدة وعملة معماة نادرة ومحدودة ومقاومة لتخزين القيمة في المستقبل ، وهي ليست شوكة بيتكوين.
+                                تستخدم XRC blockchain الفريد الخاص بها مع <strong> إجمالي العرض 2.1 مليون XRC </strong>. إنه مبرمج
+                                باللغة <strong> C # وهي POW فقط </strong>. يطور المطورون بأمانة وثبات حلول xRhodium الفريدة للمستثمرين على المدى الطويل.
                             </p>
-                            <h5>
-                                ورقة العمل
-                            </h5>
-                            <p>
-                                ألق نظرة على ورقة العمل الرسمية ل xRhodium. ويمنح الإذن باستخدام هذه المواد لأغراض العلاقات العامة والتسويق.
-                            </p>
+<h5> X11 </h5>
+                            <p> تستخدم خوارزمية التجزئة المتسلسلة الخاصة بـ X11 سلسلة من إحدى عشرة خوارزمية تجزئة علمية لإثبات العمل. تشمل مزايا خوارزمية X11 - <strong> الأداء والأمان وتكاليف طاقة أقل </strong>. 11 وظيفة تجزئة مختلفة في خوارزمية واحدة: Blake و BMW و Groestl و JH و Keccak و Skein و Luffa و Cubehash و Shavite و Simd و Echo. </p>
+<h5> إثبات العمل (PoW) XRC DigiShield </h5>
+                            <p> تعيد DigiShield استهداف صعوبة العملة لحمايتها من التجمعات المتعددة والتضخم المفرط للعملات المعدنية الجديدة التي يسهل تعدينها. تم إنشاء DigiShield <strong> لحساب مثل هذه التقلبات الجامحة </strong> ، بحيث <strong> لا "تتجمد" سلسلة الكتل </strong> عند حدوث خروج كبير من قوة التجزئة. </p>
                             <div class="btn-more-box">
-                                <a class="btn btn-custom-small" href="https://www.xrhodium.org/Whitepaper.pdf" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'whitepaper'});">
-                                    تحميل
-                                </a>
+                                <a class="btn btn-custom-small" href="https://github.com/XRCPlatform/xrhodiumnode#readme" target="_blank">اقرأ أكثر</a>
                             </div>
+
                         </div>
                     </div>
                     <div class="col-lg-5">
@@ -180,13 +172,14 @@
                         <div class="home-icon-box">
                             <figure class="icon-pic"><img src="/data/img/master/ico-freedom-dark.png" alt="" /></figure>
                             <h3>FreeMarketOne</h3>
-                            <p>
-                                واحده من أولويات xRhodium علي المدى الطويل هي تزويد المساهمين في أسواق المعادن الثمينة بطريقه لامركزية لتبادل المبني على مبدأ الند للند.
-                            </p>
+<p> يعد FreeMarketOne (FM1) سوقًا لا مركزيًا من نوع نظير إلى نظير. <strong> منصة تداول مفتوحة المصدر قائمة على Tor مدفوعة من xRhodium (XRC) </strong> مبنية على وكالة الأفراد وخصوصيتهم. </p>
+                            <div class="btn-more-box" style="padding-bottom: 30px">
+                                <a class="btn btn-custom-small" href="https://www.fmone.org/" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'freemarketone'});">اقرأ أكثر</a>
+                            </div>
+<h5> مستند تقني </h5>
+                             <p> اطلع على ورقة العمل الرسمية xRhodium. يتم منح الإذن باستخدام هذه المواد لأغراض العلاقات العامة. </p>
                             <div class="btn-more-box">
-                                <a class="btn btn-custom-small" href="https://www.fmone.org/" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'freemarketone'});">
-                                    إقرأ المزيد
-                                </a>
+                                <a class="btn btn-custom-small" href="https://www.xrhodium.org/Whitepaper.pdf" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'whitepaper'});">تحميل</a>
                             </div>
                         </div>
                     </div>

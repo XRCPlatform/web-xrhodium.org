@@ -98,18 +98,20 @@
                 <div class="row">
                     <div class="col-lg-7">
                         <div class="home-about">
-                            <h5>Sobre xRhodium</h5>
+<h5>Acerca de xRodio</h5>
                             <p>
-                                <strong>xRhodium</strong> es un nuevo crypto commodity, una criptomoneda exotica, limitada y resistente para atesorar valor para el futuro.
-                                Su objetivo es proveer no solo un metodo de pago, sino un real, valioso commodity, el cual se convertira en una prospera inversion
-                                junto con BTC. xRhodium usa su propio blockchain, teniendo <strong>una emision total de  2.1 millones de XRC</strong>. Esta programada en lenguaje<strong>C# y es   POW solamente</strong>. <strong>Todos los tenedores de largo plazo califican para Programa Mano Fuerte</strong> el cual garantiza un significativo retorno de inversion cada ciclo trimestral. <strong>Un mercado persona a persona de xRhodium-Metales,</strong> el cual conecta al mundo cripto con el mundo de las inversiones tradicionales
-                                esta siendo desarrollado para fortalecer el proposito de uso de XRC.
+                                <strong>xRhodium [XRC]</strong> es un nuevo producto criptográfico, una criptomoneda rara, limitada y resistente para almacenar valor para el futuro, no es una bifurcación de Bitcoin.
+                                XRC utiliza su cadena de bloques única con <strong>suministro total de 2,1 millones de XRC</strong>. esta programado
+                                en <strong>lenguaje C# y es solo POW</strong>. Los desarrolladores están desarrollando de manera honesta y constante las soluciones únicas de xRhodium para inversores a largo plazo.
                             </p>
-                            <h5>White paper</h5>
-                            <p>Conozca el whitepaper de xRhodium. El uso del mismo para fines de promocion esta permitido.</p>
+<h5>X11</h5>
+                            <p>El algoritmo hash encadenado de X11 utiliza una secuencia de once algoritmos hash científicos para la prueba de trabajo. Las ventajas del algoritmo X11 incluyen - <strong>Rendimiento, Seguridad, Menos costos de energía</strong>. 11 funciones hash diferentes en un algoritmo: Blake, BMW, Groestl, JH, Keccak, Skein, Luffa, Cubehash, Shavite, Simd, Echo.</p>
+<h5>Prueba de trabajo (PoW) XRC DigiShield</h5>
+                            <p>DigiShield redirige la dificultad de una moneda para protegerla contra múltiples fondos y una sobreinflación de monedas nuevas fácilmente extraídas. DigiShield se creó para <strong>dar cuenta de tales fluctuaciones salvajes</strong>, de modo que la <strong>cadena de bloques no se "congele"</strong> cuando se produce un gran éxodo de poder de hash.</p>
                             <div class="btn-more-box">
-                                <a class="btn btn-custom-small" href="https://www.xrhodium.org/Whitepaper.pdf" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'whitepaper'});">Descargar</a>
+                                <a class="btn btn-custom-small" href="https://github.com/XRCPlatform/xrhodiumnode#readme" target="_blank">Lee mas</a>
                             </div>
+
                         </div>
                     </div>
                     <div class="col-lg-5">
@@ -117,13 +119,17 @@
                             <div class="coinmarketcap-currency-widget" data-currencyid="3839" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="true"></div>
 
                         </div>
-
                         <div class="home-icon-box">
                             <figure class="icon-pic"><img src="/data/img/master/ico-freedom-dark.png" alt="" /></figure>
                             <h3>FreeMarketOne</h3>
-                            <p>Una de las prioridades de largo plazo de xRhodium es proveer a sus inversores el acceso a los mercados de metales preciosos a traves de un metodo decentralizado de intercambio persona a persona.</p>
+<p>FreeMarketOne (FM1) es un mercado descentralizado entre pares. Una plataforma comercial de código abierto <strong>basada en Tor impulsada por xRhodium (XRC)</strong> construida alrededor de la agencia y la privacidad de las personas.</p>
+                            <div class="btn-more-box" style="padding-bottom: 30px">
+                                <a class="btn btn-custom-small" href="https://www.fmone.org/" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'freemarketone'});">Lee mas</a>
+                            </div>
+<h5>Libro blanco</h5>
+                             <p>Lea el documento técnico oficial de xRhodium. Se otorga permiso para utilizar este material con fines de relaciones públicas.</p>
                             <div class="btn-more-box">
-                                <a class="btn btn-custom-small" href="https://www.fmone.org/" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'freemarketone'});">Read more</a>
+                                <a class="btn btn-custom-small" href="https://www.xrhodium.org/Whitepaper.pdf" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'whitepaper'});">Descargar</a>
                             </div>
                         </div>
                     </div>

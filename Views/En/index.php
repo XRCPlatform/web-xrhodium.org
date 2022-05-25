@@ -112,14 +112,16 @@ echo $content_for_navigation;
                             <p>
                                 <strong>xRhodium [XRC]</strong> is a new crypto commodity, rare, limited and resistant cryptocurrency to store value for the future, it is not a fork of Bitcoin.
                                 XRC uses its unique blockchain with <strong>total supply of 2.1 million XRC</strong>. It is programmed
-                                in <strong>C# language and is POW only</strong>. Devs are honestly and steadily developing xRhodium’s Unique solutions for investors for the long-term. <strong>xRhodium will also join</strong> one of the
-                                anonymity spaces.
+                                in <strong>C# language and is POW only</strong>. Devs are honestly and steadily developing xRhodium’s Unique solutions for investors for the long-term.
                             </p>
-                            <h5>White paper</h5>
-                            <p>Have a read of the official xRhodium Whitepaper. Permission to use this material for PR purposes is granted.</p>
+							<h5>X11</h5>
+                            <p>X11’s chained hashing algorithm utilizes a sequence of eleven scientific hashing algorithms for the proof-of-work. The advantages of the X11 algorithm include - <strong>Performance, Security, Less energy costs</strong>. 11 different hash functions in one algorithm: Blake, BMW, Groestl, JH, Keccak, Skein, Luffa, Cubehash, Shavite, Simd, Echo.</p>
+							<h5>Proof-Of-Work (PoW) XRC DigiShield</h5>
+                            <p>DigiShield re-targets a coin’s difficulty to protect against multi-pools and an over-inflation of easily mined new coins. DigiShield was created to <strong>account for such wild fluctuations</strong>, so that the <strong>blockchain doesn't "freeze"</strong> when a large exodus of hash power occurs.</p>
                             <div class="btn-more-box">
-                                <a class="btn btn-custom-small" href="https://www.xrhodium.org/Whitepaper.pdf" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'whitepaper'});">Download</a>
+                                <a class="btn btn-custom-small" href="https://github.com/XRCPlatform/xrhodiumnode#readme" target="_blank">Read More</a>
                             </div>
+
                         </div>
                     </div>
                     <div class="col-lg-5">
@@ -130,9 +132,14 @@ echo $content_for_navigation;
                         <div class="home-icon-box">
                             <figure class="icon-pic"><img src="/data/img/master/ico-freedom-dark.png" alt="" /></figure>
                             <h3>FreeMarketOne</h3>
-                            <p>FreeMarketOne (FM1) is a decentralized peer-to-peer marketplace. An open-source, Tor-based trading platform driven by xRhodium (XRC) built around individuals’ agency and privacy.</p>
-                            <div class="btn-more-box">
+                            <p>FreeMarketOne (FM1) is a decentralized peer-to-peer marketplace. An open-source, <strong>Tor-based trading platform driven by xRhodium (XRC)</strong> built around individuals’ agency and privacy.</p>
+                            <div class="btn-more-box" style="padding-bottom: 30px">
                                 <a class="btn btn-custom-small" href="https://www.fmone.org/" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'freemarketone'});">Read more</a>
+                            </div>
+                            <h5>White paper</h5>
+                            <p>Have a read of the official xRhodium Whitepaper. Permission to use this material for PR purposes is granted.</p>
+                            <div class="btn-more-box">
+                                <a class="btn btn-custom-small" href="https://www.xrhodium.org/Whitepaper.pdf" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'whitepaper'});">Download</a>
                             </div>
                         </div>
                     </div>

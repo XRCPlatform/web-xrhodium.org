@@ -113,15 +113,20 @@
                 <div class="row">
                     <div class="col-lg-7">
                         <div class="home-about">
-                            <h5>О Биткоин Родиуме</h5>
+<h5>О xRhodium</h5>
                             <p>
-                                <strong>Биткоин Родиум</strong> — это новый криптовалютный продукт для сохранения ценности в будущем, редкий, устойчивый и с ограниченным выпуском. Криптовалюта, призванная обеспечить не только способ оплаты, но и реальный ценный товар, который станет отличным инвестиционным элементом наряду с BTC. <strong>Биткоин Родиум использует свой уникальный блокчейн с общим предложением в 2,1 миллиона XRC</strong>. Он написан на языке C# и опирается в своей работе исключительно на механизм PoW (доказательство работы). <strong>Все долгосрочные держатели имеют право на участие в программе «Твердые руки», которая гарантирует значительный возврат инвестиций каждые 3-месячный цикл.</strong> Для того чтобы усилить варианты использования Биткоин Родиума, в настоящее время мы работаем над созданием пирингового рынка криптовалют и драгметаллов, который свяжет криптовалюту с миром традиционных инвестиций.
+                                <strong>xRhodium [XRC]</strong> — это новый крипто-товар, редкая, ограниченная и устойчивая криптовалюта для сохранения стоимости на будущее, это не форк биткойна.
+                                XRC использует свой уникальный блокчейн с <strong>общим объемом поставок 2,1 миллиона XRC</strong>. Это запрограммировано
+                                на <strong>языке C# и только для POW</strong>. Разработчики честно и неуклонно развивают уникальные решения xRhodium для инвесторов на долгосрочную перспективу.
                             </p>
-                            <h5>Проектный документ</h5>
-                            <p>Ознакомьтесь с официальным проектным документом (White Paper) Биткоин Родиума. Разрешено свободное использование этого материала в рекламных целях.</p>
+<h5>X11</h5>
+                            <p>Алгоритм цепного хеширования X11 использует последовательность из одиннадцати научных алгоритмов хеширования для проверки работоспособности. К преимуществам алгоритма X11 относятся: <strong>Производительность, Безопасность, Меньше энергозатрат</strong>. 11 различных хеш-функций в одном алгоритме: Blake, BMW, Groestl, JH, Keccak, Skein, Luffa, Cubehash, Shavite, Simd, Echo.</p>
+<h5>Доказательство работы (PoW) XRC DigiShield</h5>
+                            <p>DigiShield перенацеливает сложность монеты, чтобы защитить от мультипулов и чрезмерной инфляции легко добываемых новых монет. DigiShield был создан, чтобы <strong>учитывать такие дикие колебания</strong>, чтобы <strong>блокчейн не "зависал"</strong> при большом исходе хэш-мощности.</p>
                             <div class="btn-more-box">
-                                <a class="btn btn-custom-small" href="https://www.xrhodium.org/Whitepaper.pdf" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'whitepaper'});">Скачать ПДФ</a>
+                                <a class="btn btn-custom-small" href="https://github.com/XRCPlatform/xrhodiumnode#readme" target="_blank">Узнать больше</a>
                             </div>
+
                         </div>
                     </div>
                     <div class="col-lg-5">
@@ -132,9 +137,14 @@
                         <div class="home-icon-box">
                             <figure class="icon-pic"><img src="/data/img/master/ico-freedom-dark.png" alt="" /></figure>
                             <h3>FreeMarketOne</h3>
-                            <p>Одним из долгосрочных приоритетов Биткоин Родиума является предоставление децентрализованного метода обмена заинтересованным сторонам на рынках драгоценных металлов.</p>
+<p>FreeMarketOne (FM1) – это децентрализованная одноранговая торговая площадка. <strong>Торговая платформа с открытым исходным кодом на основе Tor, управляемая xRhodium (XRC)</strong>, основанная на свободе действий и конфиденциальности отдельных лиц.</p>
+                            <div class="btn-more-box" style="padding-bottom: 30px">
+                                <a class="btn btn-custom-small" href="https://www.fmone.org/" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'freemarketone'});">Узнать больше</a>
+                            </div>
+<h5>Белая книга</h5>
+                             <p>Ознакомьтесь с официальным техническим документом xRhodium. Разрешается использовать данный материал в целях PR.</p>
                             <div class="btn-more-box">
-                                <a class="btn btn-custom-small" href="https://www.fmone.org/" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'freemarketone'});">Read more</a>
+                                <a class="btn btn-custom-small" href="https://www.xrhodium.org/Whitepaper.pdf" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'whitepaper'});">Скачать</a>
                             </div>
                         </div>
                     </div>

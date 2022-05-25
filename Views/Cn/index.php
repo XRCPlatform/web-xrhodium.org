@@ -107,16 +107,20 @@
                 <div class="row">
                     <div class="col-lg-7">
                         <div class="home-about">
-                            <h5>About xRhodium</h5>
+<h5>关于 xRhodium</h5>
                             <p>
-                                <strong>比特铑币</strong> 是一种新的加密商品，稀有，限量 和 抗审查性 的加密货币, 为未来财务保值.
-                                它不仅是提供一种支付方式，而且提供一种真正有价值的商品，它将与比特币一起成为宝贵的投资. 比特铑币使用其独特的区块链 <strong>其总供应量为2.1百万枚XRC</strong>. 它用C＃语言编程,并通过工作量证明（Proof-of-Work，PoW)来产生区块. <strong>所有长期投资者都可参与"强手储蓄计划" </strong> 每3个月分红,股利保证高投资回报率. <strong>目前正在开发的用例, 包括点对点 铑币-金属 市场</strong> 将把加密世界与传统投资世界联系起来.
+                                <strong>xRhodium [XRC]</strong> 是一种新的加密商品，是一种稀有、有限且具有抵抗力的加密货币，用于为未来存储价值，它不是比特币的分叉。
+                                XRC 使用其独特的区块链，<strong>总供应量为 210 万个 XRC</strong>。它被编程
+                                <strong>C# 语言，仅限 POW</strong>。开发人员正在诚实而稳步地为投资者开发 xRhodium 的独特解决方案，以长期进行。
                             </p>
-                            <h5>白 皮书</h5>
-                            <p>阅读官方铑币白皮书. 允许将此材料用于公关用途.</p>
+<h5>X11</h5>
+                            <p>X11 的链式散列算法利用一系列 11 种科学散列算法来进行工作量证明。 X11 算法的优势包括 - <strong>性能、安全性、更少的能源成本</strong>。 11 种不同的哈希函数在一个算法中：Blake、BMW、Groestl、JH、Keccak、Skein、Luffa、Cubehash、Shavite、Simd、Echo。</p>
+<h5>工作量证明 (PoW) XRC DigiShield</h5>
+                            <p>DigiShield 重新定位了硬币的难度，以防止多池和容易开采的新硬币过度膨胀。创建 DigiShield 是为了<strong>解决如此剧烈的波动</strong>，以便在发生大量散列功率外流时<strong>区块链不会“冻结”</strong>。</p>
                             <div class="btn-more-box">
-                                <a class="btn btn-custom-small" href="https://www.xrhodium.org/Whitepaper.pdf" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'whitepaper'});">白皮书</a>
+                                <a class="btn btn-custom-small" href="https://github.com/XRCPlatform/xrhodiumnode#readme" target="_blank">阅读更多</a>
                             </div>
+
                         </div>
                     </div>
                     <div class="col-lg-5">
@@ -127,9 +131,14 @@
                         <div class="home-icon-box">
                             <figure class="icon-pic"><img src="/data/img/master/ico-freedom-dark.png" alt="" /></figure>
                             <h3>FreeMarketOne</h3>
-                            <p>其中一个长期发展重点之一是为铑币投资者提供点对点 贵金属去中心化交易机制.</p>
+<p>FreeMarketOne (FM1) 是一个去中心化的点对点市场。 一个开源的、<strong>基于 Tor 的交易平台，由 xRhodium (XRC)</strong> 驱动，围绕个人代理和隐私构建。</p>
+                            <div class="btn-more-box" style="padding-bottom: 30px">
+                                <a class="btn btn-custom-small" href="https://www.fmone.org/" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'freemarketone'});">阅读更多</a>
+                            </div>
+<h5>白皮书</h5>
+                             <p>阅读官方 xRhodium 白皮书。 已授予将此材料用于 PR 目的的许可。</p>
                             <div class="btn-more-box">
-                                <a class="btn btn-custom-small" href="https://www.fmone.org/" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'freemarketone'});">Read more</a>
+                                <a class="btn btn-custom-small" href="https://www.xrhodium.org/Whitepaper.pdf" target="_blank" onclick="gtag('event', 'click', { event_category: 'button', event_action: 'click', event_label: 'whitepaper'});">下载</a>
                             </div>
                         </div>
                     </div>
