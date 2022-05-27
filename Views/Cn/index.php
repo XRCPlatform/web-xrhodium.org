@@ -114,7 +114,7 @@
                                 <strong>C# 语言，仅限 POW</strong>。开发人员正在诚实而稳步地为投资者开发 xRhodium 的独特解决方案，以长期进行。
                             </p>
 <h5>X11</h5>
-                            <p>X11 的链式散列算法利用一系列 11 种科学散列算法来进行工作量证明。 X11 算法的优势包括 - <strong>性能、安全性、更少的能源成本</strong>。 11 种不同的哈希函数在一个算法中：Blake、BMW、Groestl、JH、Keccak、Skein、Luffa、Cubehash、Shavite、Simd、Echo。</p>
+                            <p>X11 的链式散列算法结合了一系列用于工作量证明的 11 个散列函数（Blake、BMW、Groestl、JH、Keccak、Skein、Luffa、Cubehash、Shavite、Simd、Echo）。 X11 的主要优势包括 - <strong>性能、安全性、较低的能源成本</strong>。</p>
 <h5>工作量证明 (PoW) XRC DigiShield</h5>
                             <p>DigiShield 重新定位了硬币的难度，以防止多池和容易开采的新硬币过度膨胀。创建 DigiShield 是为了<strong>解决如此剧烈的波动</strong>，以便在发生大量散列功率外流时<strong>区块链不会“冻结”</strong>。</p>
                             <div class="btn-more-box">

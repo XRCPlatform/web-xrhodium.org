@@ -115,7 +115,7 @@ echo $content_for_navigation;
                                 in <strong>C# language and is POW only</strong>. Devs are honestly and steadily developing xRhodium’s Unique solutions for investors for the long-term.
                             </p>
 							<h5>X11</h5>
-                            <p>X11’s chained hashing algorithm utilizes a sequence of eleven scientific hashing algorithms for the proof-of-work. The advantages of the X11 algorithm include - <strong>Performance, Security, Less energy costs</strong>. 11 different hash functions in one algorithm: Blake, BMW, Groestl, JH, Keccak, Skein, Luffa, Cubehash, Shavite, Simd, Echo.</p>
+                            <p>X11’s chained hashing algorithm combines a sequence of eleven hash functions for the proof-of-work (Blake, BMW, Groestl, JH, Keccak, Skein, Luffa, Cubehash, Shavite, Simd, Echo). X11’s main advantages include - <strong>Performance, Security, Lower energy costs</strong>.</p>
 							<h5>Proof-Of-Work (PoW) XRC DigiShield</h5>
                             <p>DigiShield re-targets a coin’s difficulty to protect against multi-pools and an over-inflation of easily mined new coins. DigiShield was created to <strong>account for such wild fluctuations</strong>, so that the <strong>blockchain doesn't "freeze"</strong> when a large exodus of hash power occurs.</p>
                             <div class="btn-more-box">

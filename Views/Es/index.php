@@ -105,7 +105,7 @@
                                 en <strong>lenguaje C# y es solo POW</strong>. Los desarrolladores están desarrollando de manera honesta y constante las soluciones únicas de xRhodium para inversores a largo plazo.
                             </p>
 <h5>X11</h5>
-                            <p>El algoritmo hash encadenado de X11 utiliza una secuencia de once algoritmos hash científicos para la prueba de trabajo. Las ventajas del algoritmo X11 incluyen - <strong>Rendimiento, Seguridad, Menos costos de energía</strong>. 11 funciones hash diferentes en un algoritmo: Blake, BMW, Groestl, JH, Keccak, Skein, Luffa, Cubehash, Shavite, Simd, Echo.</p>
+                            <p>El algoritmo hash encadenado de X11 combina una secuencia de once funciones hash para la prueba de trabajo (Blake, BMW, Groestl, JH, Keccak, Skein, Luffa, Cubehash, Shavite, Simd, Echo). Las principales ventajas de X11 incluyen: <strong>rendimiento, seguridad, costos de energía más bajos</strong>.</p>
 <h5>Prueba de trabajo (PoW) XRC DigiShield</h5>
                             <p>DigiShield redirige la dificultad de una moneda para protegerla contra múltiples fondos y una sobreinflación de monedas nuevas fácilmente extraídas. DigiShield se creó para <strong>dar cuenta de tales fluctuaciones salvajes</strong>, de modo que la <strong>cadena de bloques no se "congele"</strong> cuando se produce un gran éxodo de poder de hash.</p>
                             <div class="btn-more-box">
