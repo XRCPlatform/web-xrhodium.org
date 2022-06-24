@@ -422,6 +422,18 @@ echo $content_for_navigation;
 
         <div class="container" id="blog">
             <div class="section-title">
+                <h2>Price Chart</h2>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+<coingecko-coin-price-chart-widget  coin-id="xrhodium" currency="usd" height="300" locale="en"></coingecko-coin-price-chart-widget>
+                </div>
+            </div>
+
+        </div>
+		
+        <div class="container" id="blog">
+            <div class="section-title">
                 <h2>Recent Articles</h2>
             </div>
             <div class="row">
@@ -499,6 +511,7 @@ echo $content_for_navigation;
 
 	<div id="cookie-notice" role="banner" class="cookie-notice-visible" aria-label="Cookie Notice"><div class="cookie-notice-container"><span id="cn-notice-text" class="cn-text-container">We use Google Analytics cookies only to improve user experience and analyze website traffic. By clicking “Accept“, you agree to our website's cookie use as described in our <a href="/privacy.html" target="_blank">Privacy Policy</a> and <a href="/privacycookies.html" target="_blank">Cookies Policy</a>. You can “Decline” it to remove all these cookies.</span><br /><span id="cn-notice-buttons" class="cn-buttons-container"><a id="cn-decline-cookie" href="#" class="cn-set-cookie cn-button bootstrap button">Decline</a> <a id="cn-accept-cookie" href="#" class="cn-set-cookie cn-button bootstrap button">Accept</a></span></div></div>
 			
+    <script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
 			
     <script src="/data/js/plugins.js"></script>
     <script src="/data/js/bootstrap.min.js"></script>
