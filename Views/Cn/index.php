@@ -365,11 +365,10 @@
                             <figure class="icon-pic"><i class="fa fa-exchange-alt icon-color m15"></i></figure>
                             <h3>分配</h3>
                             <p>
-                                50％ 可开采 (1 050 000 XRC)<br />
-                                28% 空投 (582 857 XRC)<br />
-                                12% 8年股息分配 (257 143 XRC)<br />
-                                5% 推广预留  (105 000 XRC)<br />
-                                5% 开发预留 (105 000 XRC)
+								50% 可开采 (1,050,000 XRC)<br>
+                                28% 空投 (582,857 XRC)<br>
+                                12% 在 SHP、WXRCP (257,143 XRC)<br>
+                                10% 营销/开发 (210,000 XRC)
                             </p>
                         </div>
                     </div>

@@ -370,9 +370,8 @@ echo $content_for_navigation;
                             <p>
                                 50% mineable (1 050 000 XRC)<br>
                                 28% airdropped (582 857 XRC)<br>
-                                12% in 8 years investment (257 143 XRC)<br>
-                                5% premined for PR (105 000 XRC)<br>
-                                5% premined for dev (105 000 XRC)
+                                12% in SHP, WXRCP (257 143 XRC)<br>
+                                10% marketing/development (210 000 XRC)
                             </p>
                         </div>
                     </div>

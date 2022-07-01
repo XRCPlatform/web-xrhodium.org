@@ -359,11 +359,10 @@
                             <figure class="icon-pic"><i class="fa fa-exchange-alt icon-color m15"></i></figure>
                             <h3>Distribucion</h3>
                             <p>
-                                50% minable (1 050 000 XRC)<br>
-                                28% airdrop (582 857 XRC)<br>
-                                12% en inversion de 8 años (257 143 XRC)<br>
-                                5% preminado fpara RP (105 000 XRC)<br>
-                                5% preminado for dev (105 000 XRC)
+								50 % explotable (1 050 000 XRC)<br>
+                                28 % lanzado desde el aire (582 857 XRC)<br>
+                                12 % en SHP, WXRCP (257 143 XRC)<br>
+                                10 % marketing/desarrollo (210 000 XRC)
                             </p>
                         </div>
                     </div>
